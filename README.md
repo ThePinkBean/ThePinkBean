@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 🌱 I’d 300 hobbies, and now I'm learning about Github for the first time.
+- 🤔 I don't know how to programing or coding. Because I'm Liberal Arts. :)
+- 😄 I'll proof myself. It will be the process of creating another hobby of mine.
 
 <!--
 **ThePinkBean/ThePinkBean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
