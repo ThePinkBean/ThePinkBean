@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’d 300 hobbies, and now I'm learning about Github for the first time.
+
 <!--
 **ThePinkBean/ThePinkBean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
