@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-가장 무서운 순간은 항상 ***시작하기 직전***입니다.   
+가장 무서운 순간은 항상 ***시작하기 직전*** 입니다.   
 그 후에는 모든 것이 나아지기만 할 겁니다. -스티븐 킹
 
 - 🌱 I’d 300 hobbies, and now I'm learning about Github for the first time.
