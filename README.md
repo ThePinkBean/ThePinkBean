@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FThePinkBean&count_bg=%23370355&title_bg=%2396AE0A&icon=opsgenie.svg&icon_color=%23FFFFFF&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
+***
+### Hi there 👋 
 
 >가장 무서운 순간은 항상 **시작하기 직전**입니다.   
 >그 후에는 모든 것이 나아지기만 할 겁니다. *-스티븐 킹*
