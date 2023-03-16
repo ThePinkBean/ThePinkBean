@@ -13,7 +13,7 @@
 - 😄 보여드리겠습니다. 스스로 발전하여 이것 또한 저의 취미 중 하나가 되는 것을. <br/>
 -  Contact: <thespringwave@gmail.com>
 
-![ThePinkBean's GitHub stats](https://github-readme-stats.vercel.app/api?username=thepinkbean&count_private=true&show_icons=true&theme=dark)
+![PinkBean's GitHub stats](https://github-readme-stats.vercel.app/api?username=thepinkbean&include_all_commits=true&count_private=true&show_icons=true&theme=dark)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FThePinkBean&count_bg=%23370355&title_bg=%2396AE0A&icon=opsgenie.svg&icon_color=%23FFFFFF&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 
