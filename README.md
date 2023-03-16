@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=PinkBean%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=PinkBean%20GitHub&fontSize=70)
 
 <img src="https://user-images.githubusercontent.com/127670414/225044649-d09bdb07-a484-4429-a3b6-76625739a7e7.png" align="right" width="100"/>
 
