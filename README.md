@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=PinkBean%20GitHub&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=170&section=header&text=PinkBean%20GitHub&fontSize=70)
 
 <img src="https://user-images.githubusercontent.com/127670414/225044649-d09bdb07-a484-4429-a3b6-76625739a7e7.png" align="right" width="100"/>
 
@@ -13,7 +13,8 @@
 - 😄 보여드리겠습니다. 스스로 발전하여 이것 또한 저의 취미 중 하나가 되는 것을. <br/>
 -  Contact: <thespringwave@gmail.com>
 
-![PinkBean's GitHub stats](https://github-readme-stats.vercel.app/api?username=thepinkbean&include_all_commits=true&count_private=true&show_icons=true&theme=dark)
+![PinkBean's GitHub stats](https://github-readme-stats.vercel.app/api?username=thepinkbean&theme=dark&show_icons=true&include_all_commits=true)
+<!-- count_private=true 과 include_all_commits=true 가 충돌을 하는 것 같음. 동시에 사용하면 토탈 커밋 갯수가 0으로 표시되는 버그가 발생함. -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FThePinkBean&count_bg=%23370355&title_bg=%2396AE0A&icon=opsgenie.svg&icon_color=%23FFFFFF&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 
