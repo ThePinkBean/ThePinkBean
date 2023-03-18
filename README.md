@@ -9,7 +9,7 @@
 - 🤔 프로그래밍? 코딩? 저에겐 너무 생소한 일입니다. 저는 문과 출신이거든요! :) <br/>
 - 😄 보여드리겠습니다. 스스로 발전하여 이것 또한 저의 취미 중 하나가 되는 것을. <br/>
 -  Contact: <thespringwave@gmail.com>
--  Blog: <thepinkbean.github.io>
+-  Blog: <https://thepinkbean.github.io>
 
 [![PinkBean's GitHub stats](https://github-readme-stats.vercel.app/api?username=thepinkbean&theme=dark&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- count_private=true 과 include_all_commits=true 가 충돌을 하는 것 같음. 동시에 사용하면 토탈 커밋 갯수가 0으로 표시되는 버그가 발생함. 
